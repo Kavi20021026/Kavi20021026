@@ -1,6 +1,6 @@
 <!-- CAPTAIN AMERICA SUPERHERO HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,50:001845,100:0055A5&height=220&section=header&text=%E2%AD%90%20KAVINDU%20DISSANAYAKA%20%E2%AD%90&fontSize=46&fontAlignY=38&desc=%F0%9F%9F%A2%20AVENGER%20DEVELOPER%20%7C%20FULL%20STACK%20%26%20MOBILE%20ENGINEER&descAlignY=62&descAlign=50&fontColor=FFFFFF&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002868&height=220&section=header&text=%E2%AD%90%20KAVINDU%20DISSANAYAKA%20%E2%AD%90&fontSize=46&fontAlignY=38&desc=AVENGER%20DEVELOPER%20%7C%20FULL%20STACK%20%26%20MOBILE%20ENGINEER&descAlignY=62&descAlign=50&fontColor=FFFFFF" width="100%" />
 
   <br/>
 
@@ -13,10 +13,10 @@
 
   <!-- CAPTAIN AMERICA BADGES -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-002868?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C8102E" /></a>
-    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-C8102E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=002868" /></a>
-    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-002868?style=for-the-badge&logo=twitter&logoColor=white&labelColor=C8102E" /></a>
-    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Shield_HQ-C8102E?style=for-the-badge&logo=shield&logoColor=white&labelColor=002868" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-002868?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-C8102E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-002868?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://github.com/Kavi20021026"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
@@ -45,15 +45,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,firebase,git,github,docker,aws,vscode,figma&perline=7" />
-</div>
-
-<br/>
-
-<!-- CAPTAIN AMERICA TROPHIES -->
-<h3 align="center"><font color="#0055A5">🏆 HEROIC ACHIEVEMENTS & MEDALS</font></h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavi20021026&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Hero Trophies" />
 </div>
 
 <br/>
@@ -87,5 +78,5 @@
 
 <!-- CAPTAIN AMERICA WAVING FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8102E,50:001845,100:0055A5&height=100&section=footer&text=%E2%AD%90%20AVENGERS%20ASSEMBLE%20%7C%20DEFENDING%20THE%20CODEBASE%20%E2%AD%90&fontSize=20&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=002868&height=100&section=footer&text=%E2%AD%90%20AVENGERS%20ASSEMBLE%20%7C%20DEFENDING%20THE%20CODEBASE%20%E2%AD%90&fontSize=20&fontColor=FFFFFF" width="100%" />
 </div>
