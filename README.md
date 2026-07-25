@@ -1,7 +1,8 @@
-<!-- CAPTAIN AMERICA SUPERHERO HEADER -->
+<!-- CAPTAIN AMERICA NATIVE HEADER (100% RELIABLE) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002868&height=220&section=header&text=%E2%AD%90%20KAVINDU%20DISSANAYAKA%20%E2%AD%90&fontSize=46&fontAlignY=38&desc=AVENGER%20DEVELOPER%20%7C%20FULL%20STACK%20%26%20MOBILE%20ENGINEER&descAlignY=62&descAlign=50&fontColor=FFFFFF" width="100%" />
-
+  <br/>
+  <h1>⭐ KAVINDU DISSANAYAKA ⭐</h1>
+  <h3>🛡️ AVENGER DEVELOPER &nbsp;|&nbsp; FULL STACK & MOBILE ENGINEER 🛡️</h3>
   <br/>
 
   <!-- CAPTAIN AMERICA TYPING SVG -->
@@ -20,7 +21,7 @@
   </p>
 </div>
 
-<br/>
+<hr/>
 
 <!-- MISSION LOG / HERO DOSSIER -->
 <table align="center" width="100%">
@@ -76,7 +77,8 @@
 
 <br/>
 
-<!-- CAPTAIN AMERICA WAVING FOOTER -->
+<!-- FOOTER -->
+<hr/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002868&height=100&section=footer&text=%E2%AD%90%20AVENGERS%20ASSEMBLE%20%7C%20DEFENDING%20THE%20CODEBASE%20%E2%AD%90&fontSize=20&fontColor=FFFFFF" width="100%" />
+  <h3>⭐ AVENGERS ASSEMBLE | DEFENDING THE CODEBASE ⭐</h3>
 </div>
