@@ -46,15 +46,16 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavi20021026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kavi20021026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi20021026&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi20021026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kavi20021026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
-
 ---
 
 ### 🐍 Contribution Graph
